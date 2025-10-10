@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharindu MAhesh</h1>
+<h1 align="center">Hi 👋, I'm Tharindu Mahesh</h1>
 <h3 align="center">A passionate developer exploring AI & software engineering from Sri L</h3>
 
 - 🔭 I’m currently working on [PortfolioTharindu](https://github.com/TharinduMahesh/portfolioTharindu.git)
